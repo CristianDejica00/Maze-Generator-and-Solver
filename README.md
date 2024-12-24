@@ -13,7 +13,7 @@ G is equal to the approximate distance from the current cell to the starting cel
 H is called the "Heuristic" value, and represents the approximate distance between the current cell and the end cell. I chose to calculate this using the Manhattan Distance:
 
 ```
-H = |x<sub>1</sub> - x<sub>2</sub>| + |y<sub>1</sub> - y<sub>2</sub>|
+H = |x1 - x2| + |y1 - y2|
 ```
 
 Finally, F is the final value of the cell, which represents the sum of G and H. I mentioned earlier that this is a "weighted" A* algorithm. This means that I multiplied the H value within the sum in order to prioritize following the direction of the end cell, instead of following more random paths.
