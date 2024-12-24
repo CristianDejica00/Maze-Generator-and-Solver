@@ -3,6 +3,6 @@
 
 ![](https://github.com/CristianDejica00/Maze-Generator-and-Solver/blob/main/GitPres/Pres_1.gif)
 
-
+Test
 
 ![](https://github.com/CristianDejica00/Maze-Generator-and-Solver/blob/main/GitPres/Pres_2.gif)
